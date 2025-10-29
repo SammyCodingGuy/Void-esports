@@ -25,4 +25,4 @@ async def on_member_join(member):
     )
     
     await channel.send(message)
-``
+```
